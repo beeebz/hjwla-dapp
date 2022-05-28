@@ -17,7 +17,7 @@ const p_public_mint = "بدون واسطات تعال وشيل 🎉";
 const button_presale_coming_soon = "دور لك واسطه";
 const button_presale_mint_whitelisted = "Mint Your Special NFT";
 const button_presale_mint_not_whitelisted = "دورلك على واسطه يلد";
-const button_presale_already_minted = "حياك ياكبير ";
+const button_presale_already_minted = "سير علينا بالدسكورد";
 const button_public_mint = "اصنع صورتك هنيا";
 const mint_failed = "ايش صااااار ما مشت التحويل جرب مره ";
 
