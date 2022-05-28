@@ -1,14 +1,14 @@
 const contractAddress = "0x2a8165E0b56C500B2eDBE68C2fC6e0Ce7200d347"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "قررررب ياولد قررب";
+const welcome_h1 = "علومنا طيبه حياك";
 const welcome_h2 = "اشبك محفظك يامال الي";
 const welcome_p = 'شدهاااااااااااا يلد';
 const h1_presale_coming_soon = "جايكم قريييييييب!!";
-const h1_presale_mint = "الي عنده واسطه بس ";
+const h1_presale_mint = "ياحقين الواسطات يالله اقحشوا من الخير ";
 const h1_public_mint = "كلوووووو يشيل يا كبير";
 const h2_presale_coming_soon = "قرب الخير يلد يلد";
-const h2_presale_mint = "الخير جايكم";
+const h2_presale_mint = "كم باقي على المشروع";
 const p_presale_coming_soon = "شغالين دعوااااااتكم";
 const p_presale_mint_not_whitelisted = "مااااااش منت من الي عندهم واسطات 😢";
 const p_presale_mint_whitelisted = "هلا بالواااسطه  🎉";
