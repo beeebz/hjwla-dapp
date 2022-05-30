@@ -67,13 +67,13 @@ const ROYALTY_SHARE = 1000; // Percentage of the token price that goes to the ro
 const ROYALTY_ADDRESS = "0x078c004638226764795a3bcBC9a2d1589d5A3f06"; // Address that will receive the royalty
 const BASE_URI = null; // only update if you want to manually set the base uri
 const PREREVEAL_TOKEN_URI = null; // only update if you want to manually set the prereveal token uri
-const PRESALE_WHITELISTED_ADDRESSES = ["0x325A0FA68fC381BE451f57D6be7f84DA206427fd","0x078c004638226764795a3bcBC9a2d1589d5A3f06","0x53fd90Aa13B85168D46ADa899B820ec595C852b6","0xB9f35Dd843676658Ef9e5BF7ea5fF17DF2787f2a","0x34f7390e843A6BadC0a3f1515B198c38E120D5B8","0x0196B15a43EA314A1B4A32F264C31Ac2fdF4fb7d","0xA3693115A55Ba48286B764a4D39701BFE22f09BA"]; // only update if you want to manually set the whitelisted addresses
+const PRESALE_WHITELISTED_ADDRESSES = ["0x325A0FA68fC381BE451f57D6be7f84DA206427fd","0x078c004638226764795a3bcBC9a2d1589d5A3f06","0x53fd90Aa13B85168D46ADa899B820ec595C852b6","0xB9f35Dd843676658Ef9e5BF7ea5fF17DF2787f2a","0x34f7390e843A6BadC0a3f1515B198c38E120D5B8","0x0196B15a43EA314A1B4A32F264C31Ac2fdF4fb7d","0xA3693115A55Ba48286B764a4D39701BFE22f09BA","0xD3cB2d004db46fe2461c9F6F8D0D4B9fCe03a0fd"]; // only update if you want to manually set the whitelisted addresses
 
 // ** OPTIONAL **
 let CONTRACT_ADDRESS = "0x2a8165E0b56C500B2eDBE68C2fC6e0Ce7200d347"; // If you want to manually include it
 
 // Generic Metadata is optional if you want to reveal your NFTs
-const GENERIC = true; // Set to true if you want to upload generic metas and reveal the real NFTs in the future
+const GENERIC = false; // Set to true if you want to upload generic metas and reveal the real NFTs in the future
 const GENERIC_TITLE = CONTRACT_NAME; // Replace with what you want the generic titles to say if you want it to be different from the contract name.
 const GENERIC_DESCRIPTION = "شنوووووووو بتكوون!!"; // Replace with what you want the generic descriptions to say.
 const GENERIC_IMAGE = "https://ipfs.io/ipfs/bafkreidqalqtcnxsby7qihcbawybmwhwvl7h6yamkwjceipoqwbrvfj2pm"; // Replace with your generic image that will display for all NFTs pre-reveal.
