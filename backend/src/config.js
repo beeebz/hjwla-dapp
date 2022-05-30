@@ -9,7 +9,7 @@ const network = NETWORK.eth;
 // General metadata for Ethereum
 const namePrefix = "HJWALA";
 const description = "TEST with test";
-const baseUri = "ipfs://bafybeiaqrgfaajnuih7nz55rnoz5diy55dxk6nvhq6a3ue4xrelehfnuda/"; // This will be replaced automatically
+const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
